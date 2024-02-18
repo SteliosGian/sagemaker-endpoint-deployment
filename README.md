@@ -27,7 +27,7 @@ Sagemaker endpoint deployment with Serverless Lambda and API Gateway.
 ## About The Project
 
 An AWS Sagemaker Model endpoint that loads a custom FastAPI (or other API framework) application from ECR (Elastic Container Registry) and exposes the endpoint outside of AWS via Serverless Lambda function and API Gateway.  
-The Lambda function code and the API is outside the scope of this repository.
+The API code is outside the scope of this repository.
 
 ### Built With
 
